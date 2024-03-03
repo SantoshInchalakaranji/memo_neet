@@ -1,16 +1,11 @@
-# memo_neet
+# MemoNeet Flutter Task
+## Screenshots
 
-A new Flutter project.
+<img src="https://github.com/SantoshInchalakaranji/memo_neet/blob/main/screenshots/Web%201920%20%E2%80%93%201.png" />
 
-## Getting Started
+## Demo Video
 
-This project is a starting point for a Flutter application.
+[![Demo Video](https://png.pngtree.com/png-vector/20190724/ourmid/pngtree-vector-play-icon-png-image_1572584.jpg)](https://drive.google.com/file/d/17BTu0ouONeTJDOkZD4U04Lm8KEiUlIT2/view?usp=drivesdk)
+## Apk
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please find the app in the apk folder or  [click here](https://github.com/SantoshInchalakaranji/memo_neet/blob/main/apk/flutter_task.apk)
